@@ -1,0 +1,38 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories
+bin/
+build/
+out/
+dist/
+
+# Editor / IDE settings
+.vscode/
+
+# Temporary and local files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep project deliverables tracked
+!datasets/
+!results/
+!README.md
+!docs/
+!LLM_Usage_Log.md
